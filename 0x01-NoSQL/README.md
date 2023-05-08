@@ -41,9 +41,6 @@ $ sudo mkdir -p /data/db
 
 Or if `/etc/init.d/mongod` is missing, please find here an example of the file:
 
-Click to expand/hide file contents
-
-```
 <!--
 #!/bin/sh
 ### BEGIN INIT INFO
@@ -279,7 +276,6 @@ esac
 
 exit 0
 -->
-```
 
 ##  Use “container-on-demand” to run MongoDB
 
