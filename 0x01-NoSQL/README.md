@@ -39,9 +39,9 @@ Potential issue if documents creation doesn’t work or this error: `Data direct
 $ sudo mkdir -p /data/db
 ```
 
+<!--
 Or if `/etc/init.d/mongod` is missing, please find here an example of the file:
 
-<!--
 #!/bin/sh
 ### BEGIN INIT INFO
 # Provides:          mongod
